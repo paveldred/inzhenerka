@@ -12,3 +12,4 @@ venv/
 *.userosscache
 *.sln.docstates
 .vscode
+vs.code-workspace
